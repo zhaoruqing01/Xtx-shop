@@ -45,6 +45,8 @@ cd Xtx-shop
 
 ### 构建产物会生成在 dist 目录下，可部署至服务器。
 ## 项目结构
+```
+plaintext
 Xtx-shop/
 ├── public/               # 静态资源
 ├── src/
@@ -74,6 +76,7 @@ Xtx-shop/
 ├── index.html            # 入口HTML
 ├── package.json          # 项目依赖配置
 └── vite.config.js        # Vite配置
+```
 ## 核心功能模块
 ### 首页模块
 - 轮播图展示
